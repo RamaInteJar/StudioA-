@@ -19,7 +19,10 @@ const Home = () => {
         <button>Contact Now</button>
       </div>
       <div className="dots">
-        
+        <div className="dots-1">
+          <div className="dots-1"></div>
+          <div className="dots-1"></div>
+        </div>
       </div>
       <div className="images">
         <img src={logo} alt="/" />
